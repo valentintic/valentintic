@@ -36,7 +36,6 @@ Me destaco por mi enfoque en la **arquitectura de software, rendimiento y automa
 **🔹 Logros:**  
 ✅ Implementación de un **sistema automático de selección y cálculo de alimentos** basado en necesidades nutricionales.  
 ✅ Integración con **Google Fit** para recopilar datos de usuario en tiempo real.  
-🔗 [Ver en GitHub](https://github.com/valentintic)  
 
 ---
 
@@ -46,7 +45,6 @@ Me destaco por mi enfoque en la **arquitectura de software, rendimiento y automa
 **🔹 Logros:**  
 ✅ Sistema de autenticación y autorización **OAuth + JWT**.  
 ✅ Optimización de consultas SQL para grandes volúmenes de datos.  
-🔗 [Ver en GitHub](https://github.com/valentintic)  
 
 ---
 
@@ -56,7 +54,6 @@ Me destaco por mi enfoque en la **arquitectura de software, rendimiento y automa
 **🔹 Logros:**  
 ✅ Entrenamiento de un modelo de detección facial optimizado.  
 ✅ Implementación de reconocimiento en tiempo real con ajustes dinámicos.  
-🔗 [Ver en GitHub](https://github.com/valentintic)  
 
 ---
 

@@ -1,6 +1,6 @@
-<h1 align="center"><b>Hi, I'm Valentin Preutesei </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Valentin Preutesei </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="gif"></h1>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me"></picture> About Me
 
 🚀 **Full Stack Developer** con experiencia en la construcción de **aplicaciones web escalables y optimizadas**, combinando tecnologías **frontend y backend** con despliegues en **cloud y microservicios**.
 
@@ -76,6 +76,5 @@ Me destaco por mi enfoque en la **arquitectura de software, rendimiento y automa
 
 ## 🏆 **GitHub Contribution Activity**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>

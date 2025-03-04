@@ -1,7 +1,6 @@
-<h1 align="center">
-  <b>Valentin Preutesei</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Valentin%20Preutesei&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cloud%20Architecture%20|%20AI%20Solutions&descAlignY=51&descAlign=62" width="100%" alt="Header"/>
+</div>
 
 <p align="center">
   <a href="mailto:valentinpreutesei@outlook.es"><img src="https://img.shields.io/badge/Email-valentinpreutesei%40outlook.es-blue?style=flat-square&logo=microsoft-outlook" alt="Email"/></a>
@@ -132,3 +131,7 @@ Combino tecnologías **frontend y backend** con infraestructura **cloud y micros
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="footer"/>
+</div>

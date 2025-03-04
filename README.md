@@ -17,7 +17,7 @@ Combino tecnologías **frontend y backend** con infraestructura **cloud y micros
 ### 💡 Especialización
 
 ```
-💻 Desarrollo Full Stack   | React.js, Vue.js, ASP.NET Core, Spring Boot
+💻 Desarrollo Full Stack  | React.js, Vue.js, ASP.NET Core, Spring Boot
 ☁️ Cloud & DevOps         | AWS, Azure, Kubernetes, Terraform, CI/CD
 🤖 IA & Machine Learning  | ML.NET, Computer Vision, PyTorch
 ⚙️ Optimización           | Patrones de diseño, Arquitectura escalable

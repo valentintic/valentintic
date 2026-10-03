@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="330" viewBox="0 0 1600 330" role="img" aria-labelledby="t d">
+<title id="t">Live results architecture</title>
+<desc id="d">Field and timing, wired venue network, results API with Redis, SignalR hub, web and TV graphics.</desc>
+<style>
+  .f{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+  .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace}
+  .up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1.6s ease-in-out infinite}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+  @media (prefers-reduced-motion: reduce){.up{animation:none;opacity:1}.blink{animation:none}}
+</style>
+<rect x=".5" y=".5" width="1599" height="329" rx="20" fill="#111316" stroke="#262a31"/>
+<g class="f"><text x="56" y="62" font-size="15" letter-spacing="2" fill="#7d8590" class="m">LIVE RESULTS · HOW A MARK REACHES THE SCREEN</text>
+<path d="M306.0 164.0H365.5" stroke="#343a43" stroke-width="2"/>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="0.00s" repeatCount="indefinite" path="M306.0 164.0H365.5"/></circle>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="1.20s" repeatCount="indefinite" path="M306.0 164.0H365.5"/></circle>
+<path d="M615.5 164.0H675.0" stroke="#343a43" stroke-width="2"/>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="0.35s" repeatCount="indefinite" path="M615.5 164.0H675.0"/></circle>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="1.55s" repeatCount="indefinite" path="M615.5 164.0H675.0"/></circle>
+<path d="M925.0 164.0H984.5" stroke="#343a43" stroke-width="2"/>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="0.70s" repeatCount="indefinite" path="M925.0 164.0H984.5"/></circle>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="1.90s" repeatCount="indefinite" path="M925.0 164.0H984.5"/></circle>
+<path d="M1234.5 164.0H1294.0" stroke="#343a43" stroke-width="2"/>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="1.05s" repeatCount="indefinite" path="M1234.5 164.0H1294.0"/></circle>
+<circle r="4" fill="#4d8dff"><animateMotion dur="2.4s" begin="2.25s" repeatCount="indefinite" path="M1234.5 164.0H1294.0"/></circle>
+<g class="up" style="animation-delay:0.0s">
+  <rect x="56.0" y="112" width="250" height="104" rx="14" fill="#0c0e10" stroke="#262a31" stroke-opacity="1"/>
+  <text x="181.0" y="158" font-size="22" font-weight="600" fill="#f2f4f7" text-anchor="middle">Field &amp; timing</text>
+  <text x="181.0" y="188" font-size="16" fill="#7d8590" text-anchor="middle" class="m">marks and times</text>
+</g>
+<g class="up" style="animation-delay:0.08s">
+  <rect x="365.5" y="112" width="250" height="104" rx="14" fill="#0c0e10" stroke="#262a31" stroke-opacity="1"/>
+  <text x="490.5" y="158" font-size="22" font-weight="600" fill="#f2f4f7" text-anchor="middle">Wired venue network</text>
+  <text x="490.5" y="188" font-size="16" fill="#7d8590" text-anchor="middle" class="m">our own cabling</text>
+</g>
+<g class="up" style="animation-delay:0.16s">
+  <rect x="675.0" y="112" width="250" height="104" rx="14" fill="rgba(77,141,255,0.10)" stroke="#4d8dff" stroke-opacity=".5"/>
+  <text x="800.0" y="158" font-size="22" font-weight="600" fill="#f2f4f7" text-anchor="middle">Results API</text>
+  <text x="800.0" y="188" font-size="16" fill="#7d8590" text-anchor="middle" class="m">ASP.NET Core · Redis</text>
+</g>
+<g class="up" style="animation-delay:0.24s">
+  <rect x="984.5" y="112" width="250" height="104" rx="14" fill="rgba(77,141,255,0.10)" stroke="#4d8dff" stroke-opacity=".5"/>
+  <text x="1109.5" y="158" font-size="22" font-weight="600" fill="#f2f4f7" text-anchor="middle">SignalR hub</text>
+  <text x="1109.5" y="188" font-size="16" fill="#7d8590" text-anchor="middle" class="m">push, no polling</text>
+</g>
+<g class="up" style="animation-delay:0.32s">
+  <rect x="1294.0" y="112" width="250" height="104" rx="14" fill="#0c0e10" stroke="#262a31" stroke-opacity="1"/>
+  <text x="1419.0" y="158" font-size="22" font-weight="600" fill="#f2f4f7" text-anchor="middle">Web &amp; TV graphics</text>
+  <text x="1419.0" y="188" font-size="16" fill="#7d8590" text-anchor="middle" class="m">fans · broadcast</text>
+</g>
+<text x="56" y="286" font-size="19" fill="#a6adb8" class="up" style="animation-delay:0.5s">We cabled every venue ourselves, so results never depended on stadium wifi. Design target: field to screen in under 200 ms.</text></g>
+</svg>

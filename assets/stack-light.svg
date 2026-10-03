@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="416" viewBox="0 0 1600 416" role="img" aria-labelledby="t d">
+<title id="t">Tech stack</title>
+<desc id="d">Python, C#/.NET, TypeScript, React, Next.js, AWS, Redis, SignalR, Stripe and more.</desc>
+<style>
+  .f{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif}
+  .m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace}
+  .up{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .blink{animation:blink 1.6s ease-in-out infinite}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+  @media (prefers-reduced-motion: reduce){.up{animation:none;opacity:1}.blink{animation:none}}
+</style>
+<rect x=".5" y=".5" width="1599" height="415" rx="20" fill="#ffffff" stroke="#e3e6ec"/>
+<g class="f"><text x="56" y="73" font-size="16" letter-spacing="1.5" fill="#5b6575" class="m up" style="animation-delay:0.0s">BACKEND</text>
+<g class="up" style="animation-delay:0.0s"><rect x="330.0" y="48" width="98.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="379.2" y="73" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Python</text></g>
+<g class="up" style="animation-delay:0.0s"><rect x="438.4" y="48" width="129.6" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="503.2" y="73" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">C# / .NET</text></g>
+<g class="up" style="animation-delay:0.0s"><rect x="578.0" y="48" width="160.8" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="658.4" y="73" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">ASP.NET Core</text></g>
+<g class="up" style="animation-delay:0.0s"><rect x="748.8" y="48" width="171.2" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="834.4" y="73" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Java · Spring</text></g>
+<path d="M56 96H1544" stroke="#e3e6ec"/>
+<text x="56" y="131" font-size="16" letter-spacing="1.5" fill="#5b6575" class="m up" style="animation-delay:0.05s">FRONTEND</text>
+<g class="up" style="animation-delay:0.05s"><rect x="330.0" y="106" width="140.0" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="400.0" y="131" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">TypeScript</text></g>
+<g class="up" style="animation-delay:0.05s"><rect x="480.0" y="106" width="88.0" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="524.0" y="131" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">React</text></g>
+<g class="up" style="animation-delay:0.05s"><rect x="578.0" y="106" width="108.8" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="632.4" y="131" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Next.js</text></g>
+<g class="up" style="animation-delay:0.05s"><rect x="696.8" y="106" width="77.6" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="735.6" y="131" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Vite</text></g>
+<path d="M56 154H1544" stroke="#e3e6ec"/>
+<text x="56" y="189" font-size="16" letter-spacing="1.5" fill="#5b6575" class="m up" style="animation-delay:0.1s">AWS</text>
+<g class="up" style="animation-delay:0.1s"><rect x="330.0" y="164" width="98.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="379.2" y="189" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Lambda</text></g>
+<g class="up" style="animation-delay:0.1s"><rect x="438.4" y="164" width="150.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="513.6" y="189" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">API Gateway</text></g>
+<g class="up" style="animation-delay:0.1s"><rect x="598.8" y="164" width="56.8" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="627.2" y="189" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">S3</text></g>
+<g class="up" style="animation-delay:0.1s"><rect x="665.6" y="164" width="119.2" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="725.2" y="189" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Textract</text></g>
+<g class="up" style="animation-delay:0.1s"><rect x="794.8" y="164" width="67.2" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="828.4" y="189" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">SAM</text></g>
+<path d="M56 212H1544" stroke="#e3e6ec"/>
+<text x="56" y="247" font-size="16" letter-spacing="1.5" fill="#5b6575" class="m up" style="animation-delay:0.15000000000000002s">REAL TIME &amp; DATA</text>
+<g class="up" style="animation-delay:0.15000000000000002s"><rect x="330.0" y="222" width="88.0" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="374.0" y="247" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Redis</text></g>
+<g class="up" style="animation-delay:0.15000000000000002s"><rect x="428.0" y="222" width="108.8" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="482.4" y="247" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">SignalR</text></g>
+<g class="up" style="animation-delay:0.15000000000000002s"><rect x="546.8" y="222" width="119.2" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="606.4" y="247" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">DynamoDB</text></g>
+<path d="M56 270H1544" stroke="#e3e6ec"/>
+<text x="56" y="305" font-size="16" letter-spacing="1.5" fill="#5b6575" class="m up" style="animation-delay:0.2s">PAYMENTS</text>
+<g class="up" style="animation-delay:0.2s"><rect x="330.0" y="280" width="98.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="379.2" y="305" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Stripe</text></g>
+<g class="up" style="animation-delay:0.2s"><rect x="438.4" y="280" width="98.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="487.6" y="305" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Redsys</text></g>
+<g class="up" style="animation-delay:0.2s"><rect x="546.8" y="280" width="212.8" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="653.2" y="305" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">PSD2 open banking</text></g>
+<path d="M56 328H1544" stroke="#e3e6ec"/>
+<text x="56" y="363" font-size="16" letter-spacing="1.5" fill="#5b6575" class="m up" style="animation-delay:0.25s">DELIVERY</text>
+<g class="up" style="animation-delay:0.25s"><rect x="330.0" y="338" width="181.6" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="420.8" y="363" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">GitHub Actions</text></g>
+<g class="up" style="animation-delay:0.25s"><rect x="521.6" y="338" width="98.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="570.8" y="363" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Docker</text></g>
+<g class="up" style="animation-delay:0.25s"><rect x="630.0" y="338" width="129.6" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="694.8" y="363" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">Terraform</text></g>
+<g class="up" style="animation-delay:0.25s"><rect x="769.6" y="338" width="98.4" height="38" rx="19" fill="#f4f5f7" stroke="#e3e6ec"/>
+<text x="818.8" y="363" font-size="18" font-weight="500" fill="#0a0f1c" text-anchor="middle">pytest</text></g></g>
+</svg>
